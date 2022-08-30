@@ -1,1 +1,1 @@
-This is a readme file
+Proceso de realización de un portfolio web utilizando HTML, CSS, JavaScript y TypeScript, inicialmente. 
